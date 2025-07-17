@@ -504,7 +504,7 @@ body {
   width: 1500px;
   display: flex;
   align-items: flex-end;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 #moving-home-image {
   width: 600px;
