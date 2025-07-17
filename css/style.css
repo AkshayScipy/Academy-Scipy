@@ -442,6 +442,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 .home-row {
@@ -505,7 +506,7 @@ body {
   width: 1500px;
   display: flex;
   align-items: flex-end;
-  overflow: hidden;
+ 
 }
 #moving-home-image {
   width: 600px;
